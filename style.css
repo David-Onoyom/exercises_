@@ -1,0 +1,236 @@
+.name-colum {
+    display: block;
+    margin-bottom: 3px;
+}
+
+.survey {
+    font-family: Arial;
+    width: 230px;
+    display: inline-block;
+    vertical-align: middle;
+}
+img {
+    display: block;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.google-search {
+    padding-left: 5px;
+    padding-right: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+    text-align: center;
+    border: none;
+    box-shadow: 3px 3px 9px 0.12px rgba(0, 0, 0, 0.29);
+    outline: none;
+    }
+.google-search::placeholder {
+    border: none;
+    font-size: 13px;   
+}
+.fn {
+    padding-left: 10px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    outline: none;
+    border: 0.5px solid rgb(0, 21, 27);
+    margin-bottom: 19px;
+    margin-right: 10px;
+}
+.ln {
+        padding-left: 10px;
+        padding-right: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 3px;
+        outline: none;
+        border: 0.5px solid rgb(0, 21, 27);
+        margin-bottom: 19px;
+}
+.email {
+    padding-left: 10px;
+    padding-right: 295px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    outline: none;
+    border: 0.5px solid rgb(0, 21, 27);
+    margin-bottom: 19px;
+    display: block;
+}
+.signbtn {
+    padding-left: 205px;
+    padding-right: 205px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-radius: 3px;
+    margin-bottom: 19px;
+    background-color: rgb(99, 6, 221);
+    color: white;
+    border-radius: 7px;
+    border: none;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 18px;
+}
+.rarn {
+font-family:Arial ;
+font-size: 20px;
+font-weight: 700;
+}
+.pickup {
+    display: block;
+    padding-left: 10px;
+    padding-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    margin-bottom: 19px;
+    background-color: rgb(236, 236, 236);
+}
+.destination {
+    display: block;
+    padding-left: 10px;
+    padding-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    margin-bottom: 19px;
+    background-color: rgb(236, 236, 236);
+}
+.request-now {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.s4l {
+    padding: 15px;
+    background-color: rgb(236, 236, 236);
+    color: rgb(0, 0, 0); 
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 13px;
+    margin-bottom: 20px;
+}
+.square-shape {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    margin-bottom: 20px
+}
+.circle-shape {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-bottom: 20px
+}
+.sws {
+    border: 1px solid black;
+    padding: 10px;
+    width: 300px;
+    font-family: Arial;
+    margin-bottom: 10px;
+}
+.iym {
+    border: none;
+    width: 400px;
+    background-color: rgb(37, 37, 37);
+    color: white;
+    font-family: Arial;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.iy {
+    font-size: 25px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.ay {
+    color: rgb(180, 176, 176);
+    font-weight: 550;
+}
+.page-tweet {
+    margin-bottom: 20px;
+    height: 60px;
+    width: 420px;
+    border-radius: 8px;
+    padding: 3px;
+    box-shadow: 3px 3px 9px 0.12px rgba(0, 0, 0, 0.29);
+    display: flex;
+    align-items: center;
+}
+.potrait {
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    border: none;
+    margin-left: 10px;
+}
+.wh {
+    margin-left: 30px;
+   font-family: Arial;
+   font-size: 16px;
+}
+.tweet-btn {
+    margin-left: 80px;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    cursor: pointer;
+    background-color: rgb(87, 87, 248);
+    color: white;
+    border: none;
+    font-size: 16px;
+}
+.main-page {
+    margin-bottom: 20px;
+    height: 315px;
+    width: 200px;
+    border-radius: 2px;
+    padding: 3px;
+    box-shadow: 3px 3px 9px 0.12px rgba(0, 0, 0, 0.29);
+}
+.potrait2 {
+    width: 203px;
+    height: 200px;
+}
+.oliver {
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
+}
+.mf { 
+    font-family: Arial;
+    color: gray;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    display: block;
+}
+
+.add-frnd-btn {
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    cursor: pointer;
+    background-color: rgb(87, 87, 248);
+    color: white;
+    border: none;
+    font-size: 16px;
+}
